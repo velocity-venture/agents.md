@@ -1,0 +1,3 @@
+[submodule "benchmark-standard"]
+	path = benchmark-standard
+	url = https://github.com/velocity-venture/benchmark-standard.git
